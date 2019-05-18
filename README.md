@@ -14,3 +14,15 @@ a text file `CHS_output` will be produced
 
 
 ## example
+
+for Objective-C
+
+![OC](https://github.com/wangbingjian/checkCHS/blob/master/img/checkForOC.png "for OC")
+
+for swift
+
+![swift](https://github.com/wangbingjian/checkCHS/blob/master/img/checkForSwift.png "for swift")
+
+output
+
+![output](https://github.com/wangbingjian/checkCHS/blob/master/img/output.png "output")
