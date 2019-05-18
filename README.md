@@ -7,3 +7,5 @@ copy `checkCHS_iOS.rb` file to your iOS project root document (i.e the same path
 run commend in terminal `ruby checkCHS_iOS.rb`
 
 a text file `CHS_output` will be produced
+
+## example
